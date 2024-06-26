@@ -1,4 +1,4 @@
-![logo](https://github.com/pranaykurwade/pranaykurwade/blob/main/PRANAY%20KURWADE%203.png)
+![logo](https://github.com/pranaykurwade/pranaykurwade/blob/main/Navy%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Pranay Kurwade</h1>
 <h3 align="center"># Python Developer 🐍 | Code Explorer 🚀 | Data Analytics Enthusiast 🌟</h3>
 
